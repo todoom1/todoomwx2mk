@@ -10,9 +10,6 @@ window["document"]['getElementById']("st")['addEventListener']("click", function
 window["document"]['getElementById']("z8q")['addEventListener']("click", function () {
     window['open'](atob("aHR0cHM6Ly8xNDkuMzAuMjEwLjE0NDozNTM4NC8jL2xpbms/YWxsd2luPUVjaXdqODg3NTk0NDgmdj04MjY"), '_blank')
 });
-window["document"]['getElementById']("yh")['addEventListener']("click", function () {
-    window['open'](atob("aHR0cHM6Ly9nZnZneC5qZ3F2amkuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD04MDAmcHQ9Mzc4RjA4MzYtRjY2Qy1FRUIzLTdFQUMtOTNDQTg0ODhFMDdG"), '_blank')
-});
 window["document"]['getElementById']("cf")['addEventListener']("click", function () {
     window['open'](atob("aHR0cHM6Ly9wa2FqaW0uaGZqY2wuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDMyJnB0PTQ2QUQxRDE3LTc5QzQtOThCQy1DMjVBLUFBNzI1Q0Q5OUI2OA"), '_blank')
 });
@@ -42,7 +39,6 @@ window["document"]['getElementById']("jln")['innerHTML'] = ("君临国际");
 window["document"]['getElementById']("xsdn")['innerHTML'] = ("新时代");
 window["document"]['getElementById']("stn")['innerHTML'] = ("胜天国际");
 window["document"]['getElementById']("z8qn")['innerHTML'] = ("28圈");
-window["document"]['getElementById']("yhn")['innerHTML'] = ("壹号娱乐");
 window["document"]['getElementById']("cfn")['innerHTML'] = ("超凡国际");
 window["document"]['getElementById']("ffn")['innerHTML'] = ("非凡国际");
 window["document"]['getElementById']("dfn")['innerHTML'] = ("巅峰国际");
