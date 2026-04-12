@@ -22,6 +22,22 @@ window["document"]['getElementById']("ff")['addEventListener']("click", function
 window["document"]['getElementById']("df")['addEventListener']("click", function () {
     window['open'](atob("aHR0cHM6Ly9nZnZneC5qZ3F2amkuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDMwJnRvcElkPTEzODA2DQ=="), '_blank')
 });
+window["document"]['getElementById']("t1")['addEventListener']("click", function () {
+    window['open'](atob("aHR0cHM6Ly9sbmNxYy5qZ3F2amkuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDUxJnRvcElkPTUyNzQxOQ0="), '_blank')
+});
+window["document"]['getElementById']("yh")['addEventListener']("click", function () {
+    window['open'](atob("aHR0cHM6Ly9nZnZneC5qZ3F2amkuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD04MDAmcHQ9NzZDMkVDMDQtRDBCOS1DMDNDLTAxNEMtRUZFNTg2MDU4MjU3"), '_blank')
+});
+window["document"]['getElementById']("c7")['addEventListener']("click", function () {
+    window['open'](atob("Qzc6aHR0cHM6Ly8xMDMuMzkuMTguMjExOjc3ODgvIy9saW5rP2FsbHdpbj1oemwzZ2pVN0ROUjgyTVFpVlBjQlB3JTNEJTNE"), '_blank')
+});
+window["document"]['getElementById']("hy")['addEventListener']("click", function () {
+    window['open'](atob("aHR0cHM6Ly9uY2djYS50cHJzbWkuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDYyJnRvcElkPTI0Njg1NSZzZWxmUGxhbklkPTI2NzAyMA=="), '_blank')
+});
+window["document"]['getElementById']("c7n")['innerHTML'] = ("C7娱乐");
+window["document"]['getElementById']("yhn")['innerHTML'] = ("壹号娱乐");
+window["document"]['getElementById']("hyn")['innerHTML'] = ("汇赢国际");
+window["document"]['getElementById']("t1n")['innerHTML'] = ("TOP1体育");
 window["document"]['getElementById']("jln")['innerHTML'] = ("君临国际");
 window["document"]['getElementById']("xsdn")['innerHTML'] = ("新时代");
 window["document"]['getElementById']("stn")['innerHTML'] = ("胜天国际");
@@ -54,6 +70,3 @@ if ('serviceWorker' in navigator) {
       console.log('SW registered');
     });
 }
-//Qzc6aHR0cHM6Ly8xMDMuMzkuMTguMjExOjc3ODgvIy9saW5rP2FsbHdpbj1oemwzZ2pVN0ROUjgyTVFpVlBjQlB3JTNEJTNE
-//aHR0cHM6Ly9nZnZneC5qZ3F2amkuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD04MDAmcHQ9NzZDMkVDMDQtRDBCOS1DMDNDLTAxNEMtRUZFNTg2MDU4MjU3
-//aHR0cHM6Ly9uY2djYS50cHJzbWkuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDYyJnRvcElkPTI0Njg1NSZzZWxmUGxhbklkPTI2NzAyMA==
