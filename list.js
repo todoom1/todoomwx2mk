@@ -1,5 +1,6 @@
 (function() {
     var secretApps = [
+{img: './png/lhgj.jpg', name: '领航国际', xurl: 'aHR0cHM6Ly9yc2VzcmEuaGZqY2wuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDY0JnB0PUJBNURFNkFCLTg0NjQtQjkwNy0yQzdELUMyMEMzMEFCODM1Qg=='},
 {img: './png/hygj.jpg', name: '汇赢国际', xurl: 'aHR0cHM6Ly9uY2djYS50cHJzbWkuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDYyJnRvcElkPTI0Njg1NSZzZWxmUGxhbklkPTI2NzAyMA=='},
 {img: './png/c7.png', name: 'C7娱乐', xurl: 'Qzc6aHR0cHM6Ly8xMDMuMzkuMTguMjExOjc3ODgvIy9saW5rP2FsbHdpbj1oemwzZ2pVN0ROUjgyTVFpVlBjQlB3JTNEJTNE'},
 {img: './png/jlgj.jpg', name: '君临国际', xurl: 'aHR0cHM6Ly90ZmFqbi5oY2p3ai5jb20vYXBwL3JlZ2lzdGVyLnBocD9zaXRlX2lkPTIwODEmdG9wSWQ9MzAwNjIzNiZzZWxmUGxhbklkPTI1NzgyMjk'},
